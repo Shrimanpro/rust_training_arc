@@ -49,7 +49,7 @@ You need `rustup`, `cargo`, and a high tolerance for compiler error messages. En
 ```bash
 # Clone the repository
 git clone https://github.com/Shrimanpro/rust_training_arc.git
-cd rust-training-arc
+cd rust_training_arc
 
 # Ignite a module and prepare to be judged by rustc
 cd 01_strict_counter
