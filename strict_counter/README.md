@@ -8,9 +8,9 @@ Break the C habit of mutating variables anywhere. Learn how Rust enforces explic
 
 ## 🛠️ Implementation Specs
 
-- [ ] Initialize a `mut` steps variable and an immutable `daily_goal`.
+- [x] Initialize a `mut` steps variable and an immutable `daily_goal`.
 
-- [ ] Create a `loop` (or `while` loop) that increments your steps.
+- [x] Create a `loop` (or `while` loop) that increments your steps. (Using a function)
 
 - [ ] Write an `if` statement using the `break` keyword to exit the loop when steps >= goal.
 
