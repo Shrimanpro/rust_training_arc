@@ -1,0 +1,1 @@
+/run/media/shrimanpro/New\ Volume/me/projects/rust_training_arc/rust_training_arc/strict_counter/target/debug/strict_counter: /run/media/shrimanpro/New\ Volume/me/projects/rust_training_arc/rust_training_arc/strict_counter/src/main.rs
