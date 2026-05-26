@@ -1,0 +1,1 @@
+/run/media/shrimanpro/New\ Volume/me/projects/rust_training_arc/rust_training_arc/sandbox/target/debug/sandbox: /run/media/shrimanpro/New\ Volume/me/projects/rust_training_arc/rust_training_arc/sandbox/src/main.rs
