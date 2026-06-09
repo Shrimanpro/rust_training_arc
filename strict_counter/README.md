@@ -12,8 +12,8 @@ Break the C habit of mutating variables anywhere. Learn how Rust enforces explic
 
 - [x] Create a `loop` (or `while` loop) that increments your steps. (Using a function)
 
-- [ ] Write an `if` statement using the `break` keyword to exit the loop when steps >= goal.
+- [x] Write an `if` statement using the `break` keyword to exit the loop when steps >= goal.
 
-- [ ] Calculate the completion percentage. **Constraint:** You must cast your integers using `as f32` before dividing, otherwise the compiler will reject it.
+- [x] Calculate the completion percentage. **Constraint:** You must cast your integers using `as f32` before dividing, otherwise the compiler will reject it.
 
-- [ ] Print the progress to `stdout` on every iteration using `println!()`.
+- [x] Print the progress to `stdout` on every iteration using `println!()`.
