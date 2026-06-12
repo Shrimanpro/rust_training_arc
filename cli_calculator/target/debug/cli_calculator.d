@@ -1,0 +1,1 @@
+/run/media/shrimanpro/New\ Volume/me/projects/rust_training_arc/rust_training_arc/cli_calculator/target/debug/cli_calculator: /run/media/shrimanpro/New\ Volume/me/projects/rust_training_arc/rust_training_arc/cli_calculator/src/main.rs
