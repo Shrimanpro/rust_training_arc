@@ -1,18 +1,19 @@
 fn main() {
-    println!("Hello, world!");
     let mut temp: String = String::new();
     let _ = std::io::stdin().read_line(&mut temp);
-    let mut t = temp.split_whitespace();
-    let s = t.next();
-
-    if let Some(val) = s 
+    let mut input = temp.split_whitespace();
+ 
+    let mut op;
+    let mut done: bool = false;
+    while !done
     {
-        println!("{}", val);
+        op = input.next();
+        match op 
+        {
+            Some(test) => println!("{}", test),
+            None => done = true,
+        };
 
     }
-    else 
-    {
-        println!("er");
-    }
-    // println!("{}", s);
+
 }
